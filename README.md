@@ -11,7 +11,7 @@ Building web apps, optimizing what shouldn’t be slow,
 and pretending TypeScript errors are personal growth.
 
 ### 🧰 Tech stack
-TypeScript • Vue.js • Node.js • REST API • Jest • Webpack/Vite  
+TypeScript • Vue.js • Node.js • Jest • Webpack/Vite  
 
 ### 📫 Contact
 — [Telegram](https://t.me/deltrum)  
