@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-I'm Andrew — Bug magician, first of his name, ruler of all coffee mugs ☕ .
+I'm Andrew, bug magician, first of his name, ruler of all coffee mugs ☕ .
 
 Building web apps, optimizing what shouldn’t be slow,  
 and pretending TypeScript errors are personal growth.
