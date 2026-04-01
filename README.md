@@ -5,7 +5,7 @@
 
 ### Software engineer
 
-Bug magician first of his name, ruler of all coffee mugs ☕ 
+Bug magician, first of his name, ruler of all coffee mugs ☕ 
 
 Building web apps, optimizing what shouldn’t be slow,  
 and pretending TypeScript errors are personal growth.
